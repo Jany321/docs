@@ -27,6 +27,10 @@ Base Docs are community-managed. We welcome and encourage contributions from eve
 
 > Note: This repository powers the public Base documentation site. Content lives under `docs/`.
 
+dodao
+
+dlaso
+
 ## Local development
 
 Prerequisite: Node.js v19+.
